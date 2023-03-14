@@ -1,3 +1,8 @@
+# brclimr 0.1.2
+* Do not run example on fetch_data function to avoid error on CRAN tests.
+* Removed possible non-ASCII characters from products info.
+* Correction on fetch_data function documentation.
+
 # brclimr 0.1.1
 
 * Adopt solution for querying Parquet files that works on all operating systems but it is slower. A development version is available for Linux and MacOS with a faster solution (duckdb branch).

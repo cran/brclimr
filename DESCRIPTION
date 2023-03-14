@@ -1,7 +1,7 @@
 Package: brclimr
 Title: Fetch Zonal Statistics of Weather Indicators for Brazilian
         Municipalities
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Raphael", "Saldanha", email = "raphael.de-freitas-saldanha@inria.fr", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0652-8466")),
@@ -26,7 +26,7 @@ Depends: R (>= 2.10)
 LazyData: true
 Language: en-US
 NeedsCompilation: no
-Packaged: 2023-03-12 08:28:32 UTC; raphaelsaldanha
+Packaged: 2023-03-14 15:23:14 UTC; raphaelsaldanha
 Author: Raphael Saldanha [aut, cre] (<https://orcid.org/0000-0003-0652-8466>),
   Reza Akbarinia [aut],
   Patrick Valduriez [aut],
@@ -37,4 +37,4 @@ Author: Raphael Saldanha [aut, cre] (<https://orcid.org/0000-0003-0652-8466>),
   Fabio Porto [aut]
 Maintainer: Raphael Saldanha <raphael.de-freitas-saldanha@inria.fr>
 Repository: CRAN
-Date/Publication: 2023-03-12 12:10:06 UTC
+Date/Publication: 2023-03-14 16:10:05 UTC
